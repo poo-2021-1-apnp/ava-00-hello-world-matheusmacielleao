@@ -2,6 +2,6 @@
 class App {
   // a classe principal possui o método principal main()
   public static void main(String[] args) {
-    System.out.println("Olá mundo!");
+    System.out.println("Bilada, sim bilada.");
   }
 }
